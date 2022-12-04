@@ -6,11 +6,11 @@
 /*   By: atardif <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/21 10:57:44 by atardif           #+#    #+#             */
-/*   Updated: 2022/12/02 13:27:44 by atardif          ###   ########.fr       */
+/*   Updated: 2022/12/04 11:42:24 by atardif          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../get_next_line.h"
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
