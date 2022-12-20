@@ -13,7 +13,7 @@ To run it :
 - $3 can be replaced by any command of your choice, i use to replace it by "valgrind" or "time"
 
 This test will call your GNL until EOF is encountered (in fact while GNL returns something).
-The output of your GNL will be written in a diff.txt and a diff is execute to let you know of any differencies between original file and your output.
+The output of your GNL will be written in a diff.txt and a diff is executed to let you know of any differencies between original file and your output.
 
 You can modify/add test files at your taste (i didn't think of much cases ;) ). For the script to still run, you must respect the following nomenclature naming your files : test(number).txt
 
