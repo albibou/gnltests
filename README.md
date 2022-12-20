@@ -7,7 +7,7 @@ To run it :
 - git clone the repo in your GNL folder
 - cd to the repo
 - Check that the ".h" included in the main match the name of your ".h" file 
-- run ./mytest.sh $1 $2 $3
+- run "./mytest.sh $1 $2 $3"
 - $1 must be replaced by the BUFFER_SIZE of your choice
 - $2 must be replaced by the number of the test files of your choice (here from 1-7)
 - $3 can be replaced by any command of your choice, i use to replace it by "valgrind" or "time"
